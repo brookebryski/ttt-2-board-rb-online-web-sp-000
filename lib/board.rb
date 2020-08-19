@@ -1,3 +1,7 @@
 # Define the variable board below.
 board = array
-board = [" "," "," "," "," "," "," "," "," "]
+row = array
+#board = [" "," "," "," "," "," "," "," "," "]
+row = [" "," "," "]
+row = [" "," "," "]
+row = [" "," "," "]
